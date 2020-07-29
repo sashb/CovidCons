@@ -1,1 +1,6 @@
 https://gamozolabs.github.io/2020/07/12/fuzz_week_2020.html, One Week Hands on Fuzzing Course
+https://www.libctf.so/, Various hands on CTF and excercises to solve
+https://www.twitch.tv/gamozo, Various Twitch videos
+https://www.twitch.tv/fwdcloudsec, Streaming Con at various times
+https://www.twitch.tv/hardchat, Various topics  
+https://www.bsidesau.com.au/csides.html, Oz technical monthly meetup streamed
